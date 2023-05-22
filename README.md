@@ -1,0 +1,2 @@
+# LatihanGIT
+latihan GIT kedua
